@@ -1,6 +1,6 @@
 # Adam Steen
 
-> Building MCP servers and agentic infrastructure. Flagships: Android-native MCP protocol, validated 3D CAD, live IRC building-code compliance. Every line prompted into existence via Claude Code.
+> Building MCP servers and agentic infrastructure. Flagships: Android-native MCP protocol, validated 3D CAD, live building-code compliance. Every line prompted into existence via Claude Code.
 
 I ship production AI tooling without writing code by hand. Every repo here was built through [Claude Code](https://claude.com/claude-code) — architecture, implementation, tests, releases. The work below is what comes out the other end of a disciplined prompt-driven process.
 
